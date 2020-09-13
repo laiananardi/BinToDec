@@ -6,7 +6,7 @@ body{
 }
 
 section{
-    width: 50%;
+    width: 350px;
     margin-left: auto;
     margin-right: auto;
     background: rgba(255, 255, 255, 0.746);
@@ -26,8 +26,9 @@ select, input{
 }
 
 input#ans{
-    width: 300px;
+    width: 200px;
 }
+
 input#button{
     background:  rgb(29, 98, 110);
     color: #fff;
